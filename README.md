@@ -43,6 +43,6 @@ O conteúdo está organizado de forma clara, com pastas dedicadas a cada linguag
 ## 🚀 Como Rodar os Projetos
 
 Para explorar e testar os códigos, basta clonar este repositório:
-
+https://github.com/JoaoPinheiroAlves/Estudos.git
 ```bash
 git clone [INSIRA A URL DO SEU REPOSITÓRIO AQUI]
